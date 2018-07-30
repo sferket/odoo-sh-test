@@ -1,0 +1,4 @@
+[submodule "hilarak/odoo_community_addons"]
+	path = hilarak/odoo_community_addons
+	url = git@github.com:hilarak/odoo_community_addons.git
+	branch = 11.0
